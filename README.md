@@ -16,3 +16,11 @@ pip install numpy
 ```
 pip install matplotlib
 ```
+## dx,dy, original
+![example](https://github.com/sodes-proxy/TIA-classwork/blob/main/images/derivatives.PNG)
+
+## Gradient
+![example](https://github.com/sodes-proxy/TIA-classwork/blob/main/images/gradient.PNG)
+
+## Canny edge detection
+![example](https://github.com/sodes-proxy/TIA-classwork/blob/main/images/canny.PNG)
