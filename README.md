@@ -48,3 +48,14 @@ You can see the other examples at the images folder
 - Entry:
  
 ![example](https://github.com/sodes-proxy/TIA-classwork/blob/main/images/houghline3.PNG)
+
+## Harris corners implementation
+
+unfortunately I could not implement this, the end result should a point in the corners of each figure, nonetheless I post my results here
+- Original:
+ 
+![example](https://github.com/sodes-proxy/TIA-classwork/blob/main/harris/figura1.png)
+
+- my result:
+ 
+![example](https://github.com/sodes-proxy/TIA-classwork/blob/main/images/harris.PNG)
