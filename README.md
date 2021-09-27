@@ -24,3 +24,15 @@ pip install matplotlib
 
 ## Canny edge detection
 ![example](https://github.com/sodes-proxy/TIA-classwork/blob/main/images/canny.PNG)
+
+## Hough votes implementation
+- Border of original Image:
+
+![example](https://github.com/sodes-proxy/TIA-classwork/blob/main/images/1triangulo.png)
+- Votes:
+
+![example](https://github.com/sodes-proxy/TIA-classwork/blob/main/images/votos_1triangulo.png)
+
+```
+You can see the other examples at the images folder
+```
