@@ -36,3 +36,15 @@ pip install matplotlib
 ```
 You can see the other examples at the images folder
 ```
+## Hough Lines implementation
+- Triangle:
+ 
+![example](https://github.com/sodes-proxy/TIA-classwork/blob/main/images/houghline1.PNG)
+
+- Lines:
+ 
+![example](https://github.com/sodes-proxy/TIA-classwork/blob/main/images/houghline2.PNG)
+
+- Entry:
+ 
+![example](https://github.com/sodes-proxy/TIA-classwork/blob/main/images/houghline3.PNG)
